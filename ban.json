@@ -1,0 +1,19 @@
+{
+    "blacklist": {},
+    "bots": [
+        "u5d44e9d1b556910a39b774d4020e6dc6",
+        "u5791363d9891f95b4bd6ceacb22207d1",
+        "u1f2bee826e482155dc9d12c27075eca7",
+        "u00b11015eee051d7e6362acc7ce4ff61",
+        "uc55a84c12a265fd792cda1c5a55b972f"
+    ],
+    "mimic": {
+        "copy": false,
+        "status": false,
+        "target": {
+            "u8f35e6a36222c8c2879c0d5a66a4bd9c": true,
+            "ua10c2ad470b4b6e972954e1140ad1891": true,
+            "ue006c548bfffccd02c6a125c0bd6d6f2": true
+        }
+    }
+}
